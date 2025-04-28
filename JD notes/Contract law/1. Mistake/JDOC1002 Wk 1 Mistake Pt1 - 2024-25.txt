@@ -1,0 +1,382 @@
+Law of Contract II
+JDOC1002
+1. Mistake –Pt 1
+General
+Scenario: one or both parties enter into contract under a mistake as 
+to some matter
+Are the parties bound by the contract? 
+Should the parties be bound?
+General
+The law: is there a remedy for the mistaken party (or parties)?
+Often no: the contract stands and is binding
+Why?
+Objective theory of contract
+Certainty of contracts
+But factors favouring a remedy:
+Fairness
+Need for “integrity” of actual agreement: consensus ad idem
+Reasons why mistake may arise
+Examples of circumstances involving mistake:
+Mistake caused by misrepresentations
+Often (but not always), sufficient to analyse under law of 
+misrepresentation
+Mistake arising through no fault of either party 
+Categories of mistake
+Common mistake –both parties under same mistake
+Mutual mistake –parties at cross -purposes
+But be careful re terminology: terms not always used consistently 
+by judges or writers
+Unilateral mistake –only one party mistaken
+Legal consequences / remedies 
+where operative mistake
+Main remedy: no contract formed (or contract void ab 
+initio)
+Other (potential) equitable remedies:
+Contract voidable in equity (contract may be rescinded)
+Refusal to grant specific performance of contract
+Rectification of contract
+Mutual mistake
+Where mutual mistake operative:
+No contract formed
+Offer and acceptance do not coincide (no 
+consensus ad idem)
+Possible that parties not ad idem even if there is literal 
+correspondence between offer and acceptance
+Mutual mistake
+Raffles v Wichelhaus (1864) 2 H & C 906
+Facts:
+Agreement for purchase of cotton to arrive by ship 
+“Peerless from Bombay”
+But two ships named Peerless, one sailing in October, 
+other in December
+Goods shipped in December
+Buyer refused to take delivery
+Mutual mistake
+Issue:
+Could fact that there were two ships with same name 
+give def buyer a defence to a claim by pl seller for 
+the price?
+Held: yes
+Case interpreted as giving rise to possibility of 
+contract being void for mutual mistake (no contract 
+formed –parties not ad idem)
+Mutual mistake
+Is result consistent with objective theory of contract?
+Yes
+Latent ambiguity in words used: either interpretation of 
+words is reasonable
+Objectively, not possible to determine that there is 
+correspondence between offer and acceptance
+Mutual mistake
+Scriven Bros & Co v Hindley & Co [1913] 3 KB 564
+Facts:
+Pl selling hemp and tow by auction
+Auction catalogue: described 2 sets of goods with same shipping mark (S.L. Lots 
+63–67 (47 bales) and S.L. Lots 68 –79 (176 bales))
+Samples of both Lots available for inspection at pl’s showroom –Lot numbers 
+shown
+Def buyer inspected first sample (hemp) but did not inspect second sample 
+(tow), believing it was also hemp 
+Def made bids for both Lots at auction; goods knocked down to def 
+After discovering that second set of Lots was tow, def refused to pay  
+Mutual mistake
+Jury’s findings of fact:
+Auctioneer intended to sell tow (for Lots 68 –79)
+Def intended to bid for hemp
+Held:
+No contract formed for purchase of tow
+Parties not ad idem as to subject matter of sale
+True ambiguity: offer and acceptance did not coincide 
+Goods never properly described in catalogue nor 
+showroom
+Mutual mistake
+Mutual mistake operative only if the objective 
+facts are equivocal (as to which interpretation is 
+correct)
+If one interpretation can objectively be 
+determined to be correct, then there is only 
+unilateral mistake
+Mutual mistake
+Goldsborough Mort & Co Ltd v Quinn (1910) 10 CLR 674
+Facts:
+Contract for sale of land –price of £1, 10s per acre “calculated on a freehold basis”
+Was price simply £1, 10s per acre (vendor’s view) or did price payable require 
+deduction for conversion from leasehold to freehold (purchaser’s view)?
+Held:
+Purchaser’s interpretation correct
+Wording clear and unambiguous in meaning
+Unilateral mistake on part of vendor and not mutual mistake
+Unilateral mistake
+Mistake about some matter relating to the 
+contract is not sufficient on its own to give rise to 
+operative mistake
+Even if other party to contract knows that 
+mistaken party is contracting under the mistake: 
+Smith v Hughes (1871) LR 6 QB 597
+Caveat emptor –let the buyer beware
+Unilateral mistake
+Smith v Hughes (1871) LR 6 QB 597
+Facts:
+S offered to sell oats to P, with sample given to P
+P agreed to buy
+P discovered oats were new oats and not old 
+oats; refused to take delivery
+S sued P
+Unilateral mistake
+Court of Queen’s Bench: if contract never specified 
+that oats are to be “old” oats, then –
+S’s knowledge that P intended to purchase old oats is 
+not decisive in rendering mistake operative
+Parties ad idem if contract was simply for sale of the 
+oats corresponding to the sample inspected by P
+But position different if S knew that P believed that old 
+oats was a term of the contract (ie P’s belief is that S 
+warrants that old oats are being sold)
+Unilateral mistake –mistake as to 
+terms of contract
+Principle that can be derived from Smith v 
+Hughes :
+Unilateral mistake is operative if there is a 
+mistaken belief as to a term of the contract and 
+the other party knew (or ought reasonably to 
+have known) of that mistake
+Unilateral mistake –mistake as to 
+terms of contract
+Compare “snapping up” cases
+Hartog v Collin & Shields [1939] 3 All ER 566
+Sale of hare skins stated at a price “per pound”
+Seller intended to sell at price “per piece”
+Buyer snapped up offer, as price per pound 
+would be a bargain (3 pieces correspond to 1 
+pound)
+No contract as parties not ad idem
+Contract void for operative 
+unilateral mistake
+Remedy where unilateral mistake operative: no 
+contract (or contract void) –
+Smith ; Hartog
+Is this consistent with objective theory of contract?
+One view: this is an exception to the objective 
+theory (since subjective intention of mistaken party 
+protected)
+but exception justified and does not conflict with 
+rationale of objective theory
+Contract void for operative 
+unilateral mistake
+Alternative view: this is still an application of the 
+objective theory
+Eg Hartog : 
+Objectively possible to ascertain that real agreement was 
+price per piece
+No reasonable person could form view that there was 
+agreement on the literal terms
+Objectively, not reasonable for P to believe that there was 
+consensus ad idem for sale at price per pound
+True intentions, objectively ascertained, do not correspond 
+to the literal agreement  
+Additional remedy for operative 
+unilateral mistake
+“Apparent contract” void (because of mistake 
+of mistaken party)
+But actual contract enforceable on terms as 
+intended by mistaken party (and known to other 
+party) –to reflect true intentions:
+Ulster Bank Ltd v Lambe [2012] NIQB 31
+Where unilateral mistake not known by 
+unmistaken party
+Court may deny specific performance if unjust 
+to impose burden on mistaken party due to 
+hardship:
+Burrow v Scammell (1881) 19 Ch D 175 at 182
+Tamplin v James (1880) 15 Ch D 215 at 221
+But mistaken party still liable for damages for 
+breach of contract if party does not perform:
+Webster v Cecil (1861) 30 Beav 62 at 64
+Unilateral mistake –mistake as to 
+identity of contracting party
+Usual scenario: mistake induced by misrepresentation of 
+rogue (fraudster)
+Eg A purports to contract with B, believing B to be C because 
+of B’s misrepresentation
+Contract voidable for misrepresentation
+But is contract void for unilateral mistake (no contract)?
+Issue is critical where contract involves sale of goods to rogue 
+who then sells to innocent third party
+Nemo dat quod non habet (no one can give what they do not 
+have)
+Unilateral mistake –mistake as to 
+identity of contracting party
+Where offer made personally to specific individual, no other person 
+can accept offer so as to bind the offeror:
+Boulton v Jones (1857) 157 ER 232
+Alternative analysis (putting the same point differently):
+Where specific identity is intended to be a term of the contract, 
+then unilateral mistake as to identity is operative to render contract 
+void where unmistaken party knew of the mistake
+But contract not void if mistaken party indifferent as to whether only 
+a specific individual is to be the contracting party
+Ie not intended by mistaken party that specific identity of other 
+party is to be a term of the contract
+Mistake as to identity –parties 
+dealing face -to-face
+Strong presumption that parties intend to deal with person in front of them
+Phillips v Brooks Ltd [1919] 2 KB 243 
+Facts:
+Pl jeweller sold pearls + ring to rogue (R) in shop
+R paid by cheque as a Sir George Bullough
+Pl knew of the latter; checked directory and address given by R
+Pl allowed R to take ring first after receiving cheque
+Cheque dishonoured; R pawned ring with def pawnbrokers
+Pl sued def
+Mistake as to identity –parties 
+dealing face -to-face
+Held:
+Contract between pl and R not void (only voidable)
+Pl intended to deal with person in shop (R) even though 
+mistaken as to R’s identity
+Pl’s claim against def failed
+Mistake as to identity –parties 
+dealing face -to-face
+Ingram v Little [1961] 1 QB 31:
+Facts:
+Sale of car by Elsie and Hilda Ingram
+R test drove car and wished to pay by cheque, but Elsie 
+declined
+R then said he was Mr P G M Hutchinson of Stanstead House, 
+Stanstead Rd, Caterham
+Hilda checked phone directory at post office
+Sisters then agreed to accept cheque
+R sold car to def
+Mistake as to identity –parties 
+dealing face -to-face
+Eng CA (maj) held:
+Presumption that parties dealing face -to-face intend to 
+deal with person physically present; rebutted only on clear 
+evidence
+Presumption rebutted on facts of the case
+Mistake as to identity –parties 
+dealing face -to-face
+Lewis v Averay [1972] 1 QB 198 
+Facts:
+Pl (Lewis) sold car to R who misrepresented that he was the 
+actor Richard Greene
+Pl accepted cheque after R produced special admission 
+pass to Pinewood Studios with the name “Richard A 
+Green” and photo of R
+R sold car to def (Averay)
+Mistake as to identity –parties 
+dealing face -to-face
+Eng CA held:
+Contract formed between pl and R
+Contract voidable but not void
+Lord Denning MR and Phillimore LJ: nothing to rebut 
+presumption
+Megaw LJ: pl failed to prove that identity of person was a 
+matter of vital importance, as opposed to general 
+concern for creditworthiness
+Mistake as to identity –parties 
+dealing face -to-face
+Can cases be reconciled?
+Each case depends on its own facts/circumstances
+Basic issue: whether identity was intended to be a term 
+of the contract
+Not easy to prove (face -to-face cases)
+Strong presumption that it is not (face -to-face cases)
+Can be rebutted only in exceptional circumstances 
+Mistake as to identity –parties 
+dealing at a distance in writing
+Same broad principle as for face -to-face cases but presumption 
+different
+Cundy v Lindsay (1878) 3 App Cas 459:
+Facts:
+Blenkarn (R) ordered goods from Lindsay (L) by letter
+Order form: R gave name of Blenkiron & Co, of 37 Wood St, Cheapside 
+L knew of reputable firm Blenkiron & Co (carried on business at 123 Wood St, 
+Cheapside)
+L despatched goods without checking address of firm
+R sold goods to Cundy
+Mistake as to identity –parties 
+dealing at a distance in writing
+Held:
+No contract between R and L
+L only intended to contract with Blenkiron & Co (as 
+specified in written correspondence)
+Mistake as to identity –parties 
+dealing at a distance in writing
+Shogun Finance Ltd v Hudson [2004] 1 AC 919
+Facts:
+Motor dealer was to sell car to R
+R required loan finance from finance company and transaction was 
+structured as a hire purchase: car to be sold to finance co, who 
+would lease car to R
+R used stolen drivers licence (Mr Durlabh Patel) as proof of identity; 
+draft hire purchase agreement specified Durlabh Patel as customer 
+Finance co ran credit check on Durlabh Patel and then approved 
+transaction
+R took car and then sold to def (Hudson)
+Mistake as to identity –parties 
+dealing at a distance in writing
+Issue:
+Did finance co or H own car?
+Nemo dat: R did not own car and could not confer title on H
+But exception under Hire Purchase Act 1964 if R was “debtor” 
+under hire purchase agreement with finance co
+Was there a valid hire purchase agreement?
+Maj of HL Held:
+Hire purchase contract void; R was not debtor under hire 
+purchase agreement within Act
+Finance co entitled to car
+Mistake as to identity –parties 
+dealing at a distance in writing
+Lord Hobhouse emphasised:
+Hire purchase agreement referred to contracting party as 
+Durlabh Patel
+Identity of customer fundamental for finance co under 
+consumer credit contract; not simply willing to deal with any 
+person
+Lord Phillips:
+Hire purchase co only intended to deal with specific person 
+Durlabh Patel
+Thus no contract could be formed between hire purchase co 
+and R
+Mistake as to identity –parties 
+dealing at a distance in writing
+General principle:
+Presumption that parties intend to contract with persons 
+named in written agreement
+Written agreement with named party tends to indicate 
+that identity intended to be a term of the contract 
+[condition precedent to formation of contract]
+Presumption rebuttable though
+Mistake as to identity –parties 
+dealing at a distance in writing
+King’s Norton Metal Co v Edridge Merrett & Co Ltd
+(1897) 14 TLR 98
+Facts:
+Wallis (R) sent letter to pls to seek quotation for purchase of 
+metal
+Letter had name Hallam & Co on letterhead
+No such firm existed
+Pls sent quotation, R made order, goods despatched to R
+Price not paid; R sold to defs
+Mistake as to identity –parties 
+dealing at a distance in writing
+Eng CA held:
+Contract formed between pls and R
+Pls intended to contract with writer of letters
+Cundy v Lindsay distinguished because no firm Hallam & 
+Co in existence; no intention on part of pls to contract 
+specifically and only with Hallam & Co 
+Mistake as to identity –is law 
+satisfactory?
+Critique of English case law and approach in Cundy v 
+Lindsay :
+Unprincipled?
+Possible to rationalise case law on basis of principle –it is a 
+question of whether the mistaken party intended identity to be a 
+term (ie whether the mistaken party intended to only contract 
+with person having that identity)
+But unsatisfactory from policy perspective?
+Compare Shogun per Lord Nicholls (dissent)
+Original owner who parts with goods without full payment should 
+bear risks

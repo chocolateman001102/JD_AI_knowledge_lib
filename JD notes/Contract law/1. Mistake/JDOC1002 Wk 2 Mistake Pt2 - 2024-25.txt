@@ -1,0 +1,214 @@
+Law of Contract II
+JDOC1002
+Mistake –Pt 2
+Common mistake
+Contract void under common law where common 
+mistake means that performance of the contract would 
+be impossible, or would essentially be fundamentally 
+different to what was contemplated by the parties
+Bell v Lever Bros Ltd [1932] AC 161
+Great Peace Shipping Ltd v Tsavliris Salvage (International) Ltd
+[2003] QB 679
+Tony Investments Ltd v Fung Sun Kwan [2006] 1 HKLRD 835
+Where subject matter does not 
+exist at time of contract
+Contract prima facie void: Bell v Lever Bros ; Great 
+Peace Shipping
+Consent of parties to contract useless and nullified
+Sale of Goods Ordinance (Cap 26) s 8:
+“Where there is a contract for the sale of specific goods, and the 
+goods, without the knowledge of the seller, have perished at the 
+time when the contract is made, the contract is void.”
+Where subject matter does not 
+exist at time of contract
+Contract not void if a party expressly or impliedly 
+undertakes responsibility for existence of subject matter
+McRae v Commonwealth Disposals Commission (1951) 
+84 CLR 377
+Public tender for purchase of oil tanker said to be wrecked 
+on Jourmaund Reef
+No tanker in locality
+Contract not void: Commission impliedly warranted 
+existence of tanker 
+Mistake as to quality of subject 
+matter
+Test as to whether contract void for common mistake:
+Whether absence of that quality as to subject matter 
+renders the subject matter (thing) essentially different 
+from the thing that the parties believed it to be
+Bell v Lever Bros per Lord Atkins
+Whether the mistake renders the contractual venture 
+impossible
+Great Peace Shipping ; Tony Investments v Fung
+Mistake as to quality of subject 
+matter
+Bell v Lever Bros Ltd [1932] AC 161
+Facts:
+Agreement for early termination of two employees in return for 
+compensation payable to employees
+But employer company had right to terminate without paying 
+compensation because of employees’ breaches of duties: 
+parties unaware –common mistake
+HL held:
+Contract for termination not void
+Subject matter of contract (early termination of employment) still 
+the same 
+Mistake as to quality of subject 
+matter
+Great Peace Shipping Ltd v Tsavliris Salvage (International) Ltd [2003] 
+QB 679
+Facts:
+Ship (Cape Providence) in difficulty in South Indian Ocean
+Def salvage company agreed with pl (owner of ship Great Peace) for hire 
+of ship (Great Peace) as stand -by vessel to assist
+Great Peace believed to be 35 miles away but in fact ships 410 miles apart
+Eng CA held:
+Contract not void for common mistake
+Two ships could still meet in 22 hours –contractual venture not impossible 
+despite mistake
+Mistake as to quality of subject 
+matter
+Tony Investments Ltd v Fung Sun Kwan [2006] 1 HKLRD 835
+Facts:
+Sale of land agreement in 2004, included a former slipway
+Vendor did not have title due to reclamation initiated in 1990 
+and extinguishing of title under statute
+CFI held:
+Contract not void for common mistake
+Contract not impossible to perform –vendor had right to seek re -
+grant from government for nominal premium
+Also implied warranty that vendor has good title
+Contract voidable in equity?
+Solle v Butcher [1950] 1 KB 671 (Eng CA):
+Contract voidable in equity where common mistake 
+fundamental
+Test more liberal than common law
+Lease for agreed rent of £ 250 entered into under 
+common mistake that lease not governed by rent 
+control statute
+Lease held to be voidable (see in particular judgment 
+of Lord Denning)
+Contract voidable in equity?
+Eng CA in Great Peace Shipping :
+Solle v Butcher inconsistent with HL authority in 
+Bell v Lever Bros
+No jurisdiction in equity to rescind contract for 
+common mistake
+HK position not settled
+See Lo Shing Kin v Sy Chin Mong Stephen
+(unreported, CACV 148/2012, 8 May 2013) 
+Rectification of contracts
+Equitable remedy to correct mistakes in written 
+instruments
+Rectification where unilateral mistake as to 
+terms and other party aware of mistake
+Kowloon Development Finance Ltd v Pendex 
+Industries Ltd (2013) 16 HKCFAR 336
+Rectification possible because of lack of good faith 
+by unmistaken party
+Rectification of contracts
+Rectification where common mistake
+Elements to be established for rectification of instrument ( Tang Kwai 
+Cheung v Yeung Sze Ting [2024] 2 HKLRD 1324, HKCA):
+the parties had a continuing common intention, whether or not 
+amounting to an agreement, in respect of a particular matter in the 
+instrument to be rectified;
+there was an outward expression of accord;
+the intention continued at the time of the execution of the instrument 
+sought to be rectified; and
+by mistake, the instrument did not reflect that common intention.
+Is the common intention determined on the basis of objective 
+intentions or subjective intentions of the parties?
+Rectification of contracts
+UK: 
+Chartbrook Ltd v Persimmon Homes Ltd [2009] 1 AC 1101 per Lord 
+Hoffmann (obiter): 
+objective intentions
+FSHC Group Holdings Ltd v Glas Trust Corporation Ltd [2020] Ch 365 (Eng 
+CA) –two scenarios:
+If contract formed and then written document used to record contract: 
+objective intentions critical
+If contract formed at the same time as when the written document was 
+executed: subjective intentions critical
+Tyne and Wear Passenger Transport Executive (trading as Nexus) v National 
+Union of Rail, Maritime and Transport Workers [2024] UKSC 37; [2024] 3 WLR 
+909:
+Agreed with FSHC that focus is on subjective intentions (rejecting 
+Chartbrook )
+Rectification of contracts
+HK: objective intentions critical in all cases
+Kowloon Development Finance Ltd v Pendex Industries 
+Ltd(2013) 16 HKCFAR 336 
+Consent orders allowing further time for repayment of 
+arrears owed by borrower to moneylender
+Vague as to whether outstanding debt released aside 
+from the specified payments
+Prior negotiations: clear that debt not intended to be 
+released
+CFA: rectification ordered either on basis of common 
+mistake or unilateral mistake in the alternative
+Non est factum
+Signed contract may be void under doctrine 
+(defence) of non est factum (it is not my deed)
+Non est factum applies where person did not 
+sign document
+Non est factum
+Non est factum also applies where person signed where:
+Signer was under disability that prevents them from being 
+able to read or understand document
+Fundamental or radical difference between document 
+signed and what signer believed they were signing
+Signer was not careless
+See Saunders v Anglia Building Society [1971] AC 1004
+Failure by person of full capacity to read document 
+before signing not sufficient to establish non est factum
+Non est factum
+Mistake as to legal effect of document also insufficient 
+to establish non est factum
+Saunders v Anglia Building Society
+Kincheng Banking Corp v Kao Yu Kuei [1986] HKC 212
+Guarantor (could not read Chinese) aware document 
+signed involved him taking up some obligation re 
+borrower’s liability but not fully aware of precise legal 
+effect
+Non est factum not established
+Non est factum
+Saunders v Anglia Building Society [1971] AC 1004
+Mrs Gaille signed document assigning leasehold to 
+Lee, believing it was gift to nephew (business partner 
+with Lee) 
+HL held: non est factum not established
+Requirement for radical difference not established
+Mrs G also careless
+Non est factum
+What might amount to radical difference?
+Eg of radical difference: signing extension of period 
+of option under belief that he was signing a receipt
+Petulin v Cullen (1975) 132 CLR 355
+But not radical difference where signing guarantee 
+of existing and future indebtedness, believing 
+guarantee to only cover future indebtedness
+O’Brien v Australia and New Zealand Bank Ltd (1971) 
+5 SASR 347
+Non est factum and unilateral 
+mistake
+Where unmistaken party seeks to enforce contract:
+No need to establish absence of carelessness by 
+mistaken party to render contract void: Petulin v 
+Cullen
+Apply principles of operative unilateral mistake as to 
+terms where mistake known by other party 
+Non est factum and unilateral 
+mistake
+Where case involves rights of third party who acted in 
+good faith in reliance on signed document without 
+notice of mistake
+Mistaken party not entitled to assert absence of consensus 
+ad idem against third party (ie unilateral mistake principles 
+not applied; only basis for setting aside contract is non est 
+factum)
+Why? Estoppel? 
+Alternatively not true estoppel but person not allowed to 
+take advantage of own wrong against third party (where 
+there was carelessness): Saunders v Anglia per Lord 
+Hodson

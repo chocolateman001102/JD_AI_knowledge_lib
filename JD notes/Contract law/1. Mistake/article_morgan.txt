@@ -1,0 +1,455 @@
+COMMON MISTAKE IN CONTRACT: RARE SUCCESS
+AND COMMON MISAPPREHENSIONS
+JONATHAN MORGAN *
+ABSTRACT . Disputes involving shared mistakes should be resolved by con-
+sidering the meaning (explicit and implicit) of the parties ’agreement.
+There is no room for a free-standing doctrine of mistake. The argumentis illustrated by considering three recent decisions on common mistake.
+K
+EYWORDS :contract, common mistake, implied terms.
+I. IMPLIED TERMS AND FACTUAL BASIS
+Common mistake is a hopeless plea. It succeeds rarely –if not never then at
+least “hardly ever ”, one might unoriginally quip following Lord Hailsham
+L.C. ’s invocation of the well-bred Captain of the Pinafore .1One can see
+why parties might still try. To escape liability for breach, or from theunappetising performance of a bad bargain, would often be useful indeed –
+and deciding that an apparent contract was void ab initio permits such an
+escape. But when should it be permitted? The problem is scarcely novel.Peter Birks identi ﬁed the fear –in Roman law as today –that disappointed
+parties might go about “concocting mistakes ex post facto ”, unsettling
+transactions in a way that is undesirable because in commercial life,“successful and e ﬃcient businessmen ”should prosper while those with
+bad judgment are rightly “driven to the wall ”. As Professor Birks said, as
+true today as in classical Rome, the result is di ﬃcult law, full of “puzzles
+and arti ﬁcialities ”.
+2
+One can press the analogy further. Then as now, some jurists evince
+“determination to give no relief at all ”while others accept that contracts
+may be avoided for “a very fundamental mistake ”. The latter is the modern
+English position. But the “test”is intractable. This problem too vexed the
+Roman jurists. As Birks noted, Ulpian sought to “crisp up ”the “spongy
+* Senior University Lecturer in Law, University of Cambridge. Address for Correspondence: Corpus
+Christi College, Cambridge, CB2 1RH, UK. Email: jem44@cam.ac.uk.
+1National Carriers Ltd. v Panalpina (Northern) Ltd. [1981] A.C. 675, 688.
+2P.B.H. Birks, The Roman Law of Obligations , E. Descheemaeker (ed.) (Oxford 2014), 76 –77.Cambridge Law Journal ,77(3) , November 2018, pp. 559 –569
+doi:10.1017/S0008197318000636
+559
+notion of fundamentality ”with “a mechanical test ”(viz. error in substantia );
+but this was “itself not very satisfactory ”.3
+English law has been unable to cast o ﬀthis Roman inheritance.4The test
+of whether a mistake is su ﬃciently “fundamental ”remains entrenched. This
+has its quaint side. Is vinegar fundamentally di ﬀerent from wine? Does it
+matter whether it is wine vinegar (i.e. ex wine, now soured)?5Such ques-
+tions have a metaphysical ﬂavour. Yet judges have often refused invitations
+to“adventure themselves with philosophers ”, in other branches of private
+law.6Understandably so. That they must do so here is faintly embarrassing.
+Perhaps for this reason the “fundamental mistake ”issue has been classi ﬁed
+as one “not capable of elaborate analysis ”;i ti s “a matter of ﬁrst impres-
+sion ”for the court.7The judge knows it when she sees it. Given the
+undoubted good sense and sharp minds of the judiciary, why not leave itat that? Still, there is something intellectually unsatisfactory about the
+oracular approach, one leaving the validity of contracts dependent entirely
+upon that “educated re ﬂex to facts ”which, for Lord Go ﬀ, epitomises the
+judicial function.
+8
+The law can do better. Common mistake cases should be determined by
+the meaning of the contract, and nothing else. Of course this approach(“construction ”) is also present in the orthodox test. Unfortunately, it is
+additional to the “fundamentality ”inquiry. Since the late 19th Century
+the courts have felt it necessary to expound the parties ’intentions using
+a“doctrine ”of mistake inspired by Civilian learning.
+9But the additional
+stage is unnecessary, indeed unhelpful. It would simplify matters to have
+just one question: the meaning of the contract. This would revert to an earl-ier common law approach. It would also be in accordance with principle.
+On what basis can the court claim a dispensing power to set aside contracts,
+when there is no suggestion of impropriety,
+10unless giving e ﬀect to the
+parties ’expectations? The right question is whether the contract, on its
+true construction, was conditional on the existence of the facts which
+(it turns out) do not exist.11Contracting parties can (of course) expressly
+3Ibid., at p. 77.
+4Civilian law was in ﬂuentially relied upon by Blackburn J. in Kennedy v Panama, New Zealand &
+Australian Royal Mail Co. (1867) L.R. 2 Q.B. 580. See J. Cartwright, “The Rise and Fall of Mistake
+in the English Law of Contract ”in R. Sefton-Green (ed.), Mistake, Fraud and Duties to Inform in
+European Contract Law (Cambridge 2005), 67 –73.
+5D.18.1.9.2 (Ulpian).
+6H.M.S. London [1914] P. 72, 78, per Evans P., quoting Sir F. Pollock (causation). See also e.g. Benham v
+Gambling [1941] A.C. 157, 166, per Viscount Simon L.C. (damages for loss of expectation of life).
+7Associated Japanese Bank (International) Ltd. v Credit Du Nord S.A. [1989] 1 W.L.R. 255, 263, per
+Steyn J.
+8Smith v Littlewoods Organisation Ltd. [1987] A.C. 241, 280.
+9See Cartwright, “The Rise and Fall of Mistake ”, pp. 67 –73, 81, 84.
+10Unconscionable conduct might justify (equitable) relief for mistake. But there seems no good justi ﬁca-
+tion for an equitable discretion to avoid contracts in the absence of such impropriety: cf. Solle v Butcher
+[1950] 1 K.B. 671.
+11This was also Denning L.J. ’s view of mistake at common law: ibid., at p. 691 ( res extincta cases are
+“really contracts which are not void for mistake but are void by reason of an implied condition precedent ,560 [2018] The Cambridge Law Journal
+include a condition precedent. The “construction ”inquiry seeks to establish
+whether such a condition precedent is implicitly part of a contract contain-
+ing no express condition. Can a condition precedent be implied “in fact ”?
+The implied term approach is unorthodox today. In the leading case of
+The Great Peace , Lord Phillips M.R. said that just as the implied term the-
+ory had been repudiated by the House of Lords for frustration, so it should
+be rejected for common mistake.12While conscious of the high authority
+behind both these propositions, they should themselves be rejected. Once
+we accept that the meaning of contracts does not depend on what either
+party actually (subjectively) believed, thought or intended, there is nonecessary illogicality in implying a term about an unusual occurrence
+thatex hypothesi the actual parties had not considered –contrary to the
+superﬁcially attractive reasoning in the Davis Contractors case.
+13If the
+alleged contract ’s binding operation is implicitly dependent on a particular
+fact’s existence, on its proper construction, it matters not that the parties
+never turned their minds to this point. For that is most assuredly not thetest for implying a term. Lord Ho ﬀmann has warned that what the actual
+parties would have thought about a proposed implied term is “irrelevant ”
+and speculation about it “barren ”; such an approach risks “diverting atten-
+tion from the objectivity which informs the whole process of
+construction ”.
+14
+The implied term approach is superior in principle: implication of terms
+is still best conceptualised as making explicit the implicit meaning of a con-
+tract.15Any other conception of implication must mean that the court is
+going beyond what the agreement meant. A power to “improve ”a particular
+contract by adding ad hoc terms would be inconsistent with basic notions of
+freedom of contract and the judicial role.
+The implied term approach would also enhance common mistake ’s ele-
+gance and clarity. There is considerable judicial authority on the implica-
+tion of terms. Above all it emphasises restraint –the rarity with which
+terms should be implied, especially not into lengthy detailed contractsbetween well-advised commercial parties.
+16In his unfairly maligned judg-
+ment in the Belize Telecom case,17Lord Ho ﬀmann stressed that the starting
+point and “most usual inference ”when a contract is silent on the disputed
+point is “that nothing is to happen. If the parties had intended something to
+because the contract proceeded on the basic assumption that it was possible of performance ”(emphasis
+added)).
+12Great Peace Shipping Ltd. v Tsavliris Salvage (International) Ltd . [2002] EWCA Civ 1407, [2003] Q.B.
+679, at [70], [73].
+13Davis Contractors Ltd. v Fareham Urban District Council [1956] A.C. 696, 728, per Lord Radcli ﬀe.
+14Attorney General of Belize v Belize Telecom Ltd. [2009] UKPC 10, [2009] 1 W.L.R. 1988, at [25].
+15A. Kramer, “Implication in Fact as an Instance of Contractual Interpretation ”[2004] C.L.J. 384.
+16Marks and Spencer plc. v BNP Paribas Securities Services Trust [2015] UKSC 72, [2016] A.C. 742.
+17For criticism of Lord Neuberger ’s criticism, see J. McCunn, “Belize It or Not: Implied Contract Terms in
+Marks and Spencer v BNP Paribas ”(2016) 79 M.L.R. 1090.C.L.J. 561 Common Mistake in Contract
+happen, the instrument would have said so. Otherwise, the express provi-
+sions of the instrument are to continue to operate undisturbed. If the
+event has caused loss to one or other of the parties, the loss lies where it
+falls ”.18
+This abstentionism harmonises perfectly with the marked reluctance of
+courts to uphold common mistake pleas.19It would be preferable to con-
+ceive common mistake within the broader power to imply terms –and sub-
+ject to the “strict constraints ”upon that “intrusive ...extraordinary ”
+power.20There is no need to view common mistake as a free-standing doc-
+trine governed by its own special rules (especially not if those rules requirequasi-metaphysical distinctions between shades of “fundamentality ”).
+Legal doctrines, like other entities, should not be multiplied without reason.
+If these arguments were accepted, the position would reduce simply to
+this. When it is a condition precedent for a contract that certain facts should
+exist, those facts ’non-existence entails that the supposed “contract ’s”obli-
+gations never came into force. If the condition precedent is express this isstraightforward and obvious. If there is no express condition precedent, the
+court will reach that conclusion if and only if such a condition is present as
+an implicit term of the contract –something part of the agreement even
+though it was left unsaid. It will be di ﬃcult to convince a court that
+there was such an implicit term (condition precedent). Most claims that
+the parties intended some drastic consequence to follow from a factual mis-take will fail for the usual good reason: if so, why didn ’t they say so? But in
+rare cases the plea may succeed, as the third recent case discussed below
+indicates. The ﬁrst two cases exemplify the more typical failure to invoke
+common mistake in commercial disputes. The courts clearly reached the
+right decisions in all three cases: but we suggest that the implied term
+approach would reinforce their reasoning and con ﬁne still further the
+scope of common mistake in commercial law. If the implied term argument
+is unorthodox we nevertheless suggest it has principle, clarity, economy
+and commercial good sense to recommend it.
+II. C
+OMMON FAILURE (NO. 1):
+TRIPLE SEVEN MSN 27251 L TD.VAZMAN AIRSERVICES LTD.
+Common mistake failed in the ﬁrst recent case. Peter MacDonald Eggers Q.C.
+(sitting as a Deputy High Court Judge) held the mistake not fundamental
+enough (and that the express terms of the contract were inconsistent with
+18Belize Telecom [2009] UKPC 10, [2009] 1 W.L.R. 1988, at [17].
+19Cf.EIC Services Ltd. v Phipps [2003] EWHC 1507 (Ch), [2003] 1 W.L.R. 2360, at [178], per Neuberger
+J. holding the “oﬃcious bystander ”test useful to demonstrate the uncommerciality of a common mistake
+plea, notwithstanding rejection of the implied term approach in Great Peace [2002] EWCA Civ 1407,
+[2003] Q.B. 679 (reversed on the facts: [2004] EWCA Civ 1069, [2005] 1 W.L.R. 1377).
+20Philips Electronique Grand Public S.A. v British Sky Broadcasting Ltd. [1995] EMLR 472, 481, per
+Bingham M.R.562 [2018] The Cambridge Law Journal
+the plea).21The dispute concerned a ﬁve-year lease of two large passenger
+jets from the claimant to the defendant. As was clear throughout the nego-
+tiations, the defendant lessee intended to use the aircraft to ferry pilgrims
+from West Africa to the Hajj in Mecca. To do so the defendant neededoﬃcial approval in both Nigeria and Saudi Arabia. When the aircraft
+lease was signed on 20 June 2016, the Nigerian authorities had already
+issued the necessary approval. It was expected that the Saudi GeneralAuthority of Civil Aviation would do the same. In fact on 15 June 2016
+the Saudi authority had written to the defendant denying permission (citing
+ﬁnancial and security concerns). This decision was received by the defen-
+dants on 20 June 2016, but only after they had signed the lease. The defend-
+ant tried to persuade the Saudi authority to change its decision; this was
+unsuccessful. The defendant then refused to take delivery of the aircraft,and the claimant terminated the lease according to its terms and claimed
+damages for breach. The defendant ’s plea was common mistake. It failed
+(leaving it liable for some $22 m. damages, plus interest).
+The Deputy Judge rejected the plea because the mistake was insu ﬃ-
+ciently fundamental (i.e. the incorrect belief of both parties that the Saudi
+authority had not refused permission). So the court ’s primary reasoning
+addressed whether the mistake was serious enough to justify relief. No criti-
+cism can be made of the judgment, for it is entirely consistent with prece-
+dent. But as suggested, this orthodox inquiry leads the court into anill-deﬁned morass. It would be better not to require judges to venture there.
+The learned judge accepted that “no precise test ”exists for a mistake ’s
+fundamentality.
+22He rejected some possible candidates. It was insu ﬃcient
+that a mistake had induced entry into the contract –that is, that had the truth
+been known, the parties would not have contracted.23That “causative ”
+approach would greatly widen the scope of a plea which “necessarily
+applies to a small number of cases ”; for as Steyn J. has said, the court ’s
+ﬁrst imperative is to uphold bargains.24More controversially, the learned
+Deputy Judge doubted the “impossibility ”test advanced in The Great
+Peace . If taken literally it would provide an easy answer to Triple Seven
+v Azman Air Services (where it remained perfectly possible for the aircraft
+to be delivered and the rent paid); it would also suggest that Steyn J. ’s lead-
+ing decision in Associated Japanese Bank was wrong (for it had been quite
+possible for the bank to pay under the guarantee there, even though the
+security for the transaction turned out not to exist). The judge also rejectedHenderson J. ’s suggested reformulation that what must be impossible is
+“performance of the contract in accordance with the [parties ’] common
+21[2018] EWHC 1348 (Comm) ( “Triple Seven ”).
+22Ibid., at para. [70].
+23Ibid., at paras. [70], [72].
+24Ibid., at paras. [69] –[70].C.L.J. 563 Common Mistake in Contract
+assumption ”.25In the end, all the court can do is to compare the actual state
+of aﬀairs with what had been assumed by the parties, and ask whether the
+diﬀerence is “suﬃciently fundamental or essential or radical ”–in Steyn J. ’s
+words an “unexpected and wholly exceptional ”change.26
+On the facts, the defendant submitted that the Saudi authority ’s refusal of
+permission removed “the very purpose ”and a “vital attribute ”of the aircraft
+leases, and the “commercial feasibility ”of their performance.27The learned
+judge disagreed, holding that even if the purpose of taking pilgrims to the
+Hajj in 2016 had been defeated, the leases ran for ﬁve years of which the
+2016 Hajj was a relatively short proportion.28The leases as a whole had not
+become “essentially and radically di ﬀerent ”. While the parties would not
+have signed the contract had the truth been known, that was insu ﬃcient
+for relief.
+The decision seems (with respect) entirely correct. But the approach
+raises di ﬃcult questions of degree. What if the leases had been for 12
+months? Was counsel for the claimants correct to concede (with impunityonthese facts) that had the leases been for the 2016 Hajj only, the mistake
+would have been su ﬃciently fundamental?
+29
+The implied term approach recommended above would apply as follows.
+Was it implicit (an unspoken term) that if the parties ’factual assumptions
+about Saudi authorisation were wrong, the contract would never come into
+being? Posed thus the plea would be doomed to fail. The courts are prop-erly reluctant to accept that the parties were content to leave important mat-
+ters tacit and unsaid in a lengthy, detailed contract expressly covering
+numerous other matters. It is exceptionally di ﬃcult to establish a term by
+necessary implication in such contracts. To revert to counsel ’s concession
+inTriple Seven v Azman Air Services , would the hypothetical reasonable
+parties have issued the testy “oh, of course ”to an o ﬃcious bystander seek-
+ing to express something which (surely) went without saying?
+30Arguably
+not. A reasonable lessor might well have thought that the risk of permission
+being refused (or having already been refused) was entirely the lessee ’s
+aﬀair, and at its sole risk.
+Previous courts have accepted this. Although not reasoned as an implied
+terms case (but using the “doctrines ”of mistake and frustration),
+Amalgamated Investment & Property Co. Ltd. v John Walker & Sons
+Ltd.is directly analogous.31Unknown to either party to the sale of a build-
+ing, the Secretary of State had decided to “List”it (as possessing special
+25Ibid., at paras. [64] –[65] citing Apvodedo NV v Collins [2008] EWHC 775 (Ch), at [43].
+26Ibid., at paras. [66], [69].
+27Ibid., at para. [83](4).
+28Ibid., at para. [89].
+29Ibid., at para. [89](1).
+30Shirlaw v Southern Foundries (1926) Ltd . [1939] 2 K.B. 206, 227, per Mackinnon L.J.; cf. EIC Services
+Ltd.[2003] EWHC 1507 (Ch), [2003] 1 W.L.R. 2360.
+31Amalgamated Investment & Property Co. Ltd. v John Walker & Sons Ltd. [1977] 1 W.L.R. 164.564 [2018] The Cambridge Law Journal
+architectural merit). The formal “Listing ”order was issued just after the
+contract was signed. The Court of Appeal held this was a change of circum-
+stances postdating the contract. But there was no relief for the disappointed
+purchaser (the building ’s value declined because it could no longer be rede-
+veloped): the contract was not frustrated. For Buckley L.J. the risk of
+“Listing ”was one that inhered in all property, and therefore a risk that
+every party to transactions in land had to accept. Lawton L.J. reasoned like-wise, emphasising that the parties in casu were commercial organisations
+well aware of this possibility. They took the risk of declining value not
+only from physical causes ( “ﬁre and tempest ”) but also from government
+intervention. This reasoning is equally compelling in Triple Seven v
+Azman Air Services . Of course this seems hard on the lessee, but no harder
+than the John Walker case. A deal can make perfect commercial sense des-
+pite being tough for the losing party.
+32
+The Deputy Judge further held that the contract ’s terms excluded com-
+mon mistake.33The aircraft lease allocated the risk of refused approval to
+the defendant lessee. The contract expressly said that the lessee ’s obliga-
+tions were “absolute and unconditional, irrespective of any contingency
+or circumstance whatsoever ...[which] would or might otherwise have
+the eﬀect of terminating or in any way a ﬀecting any obligation of Lessee
+under this Agreement ”. Also, the defendant ’s failure to obtain any neces-
+sary government permissions was de ﬁned as an “Event of Default ”.
+Undoubtedly these provisions placed the risk of mistakes (or mispredic-
+tions) about Saudi authorisation upon the defendant. No doubt the prudent
+drafter would include such provisions to place the matter beyond doubt. Butthey were not strictly necessary to exclude common mistake, because it was
+impossible to suggest that the lease contained an implied condition
+precedent.
+III. C
+OMMON FAILURE (NO. 2): DANAGASP.J.S.C. VDANAGASSUKUK LTD.
+In another recent case where common mistake was again unsuccessfully
+pled, Leggatt J. (as he then was) took an approach closer to that advocated
+here.34Leggatt J. did not consider the intractable question of “fundamental-
+ity”because there was no “gap”in the contract through which common
+mistake could come into play. Such contractual space or silence was, as
+Steyn J. held in Associated Japanese Bank , an anterior question.35Only
+if the contract does not deal with the matter in question is it proper to
+32E.g.Aquila Wsa Aviation Oppurtunities II Ltd. v Onur Air Tasimacilik AS [2018] EWHC 519 (Comm),
+at [66], per Cockerill J.
+33Triple Seven , at [91].
+34Dana Gas P.J.S.C. v Dana Gas Sukuk Ltd. [2017] EWHC 2928 (Comm), [2018] 1 Lloyd ’s Rep. 177
+(“Dana Gas ”).
+35[1989] 1 W.L.R. 255, 268 (see also Great Peace [2002] EWCA Civ 1407, [2003] Q.B. 679, at [75]).C.L.J. 565 Common Mistake in Contract
+turn to common mistake. On the facts of Dana Gas , Leggatt J. held that the
+contract was deliberately structured to create a payment obligation which
+wasnotcontingent on the existence of a certain fact.
+The validity of a Purchase Undertaking deed governed by English law
+was in question. The ﬁnancial product being purchased was supposed to
+be Shari ’a compliant (under the law of the United Arab Emirates which
+governed the product). The preliminary issue was whether, assuming (with-out deciding) that the product violated Shari ’a and therefore U.A.E. law, the
+Purchase Undertaking was void for common mistake in English law.
+Leggatt J. held not. Payment of the “exercise price ”under the deed was
+a distinct obligation, clearly separated from and prior to any “sale agree-
+ment ”of the underlying product. Leggatt J. held that this structure was
+no accident but deliberately included, precisely to insulate the purchaser ’s
+obligation to pay from “the risk that ...the transaction documents governed
+by U.A.E. law will turn out to be invalid ”.
+36
+On those facts, it is evident that no “gap”existed and common mistake
+became a hopeless plea.37But the case should not be taken to suggest that
+clever drafting is needed to plug possible gaps and thereby preclude pleas
+of mistake. As Leggatt J. stated, common mistake “seldom succeeds ”pre-
+cisely because such gaps are unusual –“the risk of a mistake is usually allo-
+cated by the contract to one of the parties ”.38We would put it even more
+strongly than did his Lordship. The contract always allocates the risk.
+Silence is not a “gap”waiting to be ﬁlled. Silence is a positive abdication
+entailing that the loss lies where it falls. This follows from the quite gener-
+ally applicable rules on implication of terms –that is, the reason why courts
+will not usually ﬁnd an unspoken term with such far-reaching e ﬀects on the
+contract ’s validity. The starting point, and nearly always the ﬁnish point, is
+an inference that if the parties did not say anything on the matter, the inten-tion was that nothing (legally) is to happen if it occurs. This does not
+depend on special rules relating to particular areas, as Leggatt J. could per-
+haps be taken to suggest with his reference to caveat emptor in the law of
+sales.
+39The point is quite general.
+The “gap”is not just an anterior question, but the only one. Let us leave
+aside contracts which expressly provide for voidness in the event of a mis-take –or more likely positively require that mistakes are notto avoid the
+contract (as in both Triple Seven andDana Gas ). How is contractual silence
+to be approached? Nearly always, such silence must be understood as thecontractual allocation of risk to whichever party loses from the mistake
+36Dana Gas , at [54].
+37Ibid., at paras. [57] –[78].
+38Ibid., at para. [64].
+39Ibid. (N.B. Leggatt J. was discussing Lord Atkin ’s example of sale of a supposed “old master painting ”:
+Bell v Lever Bros [1932] A.C. 161, 224). See further William Sindall plc. v Cambridgeshire County
+Council [1994] 1 W.L.R. 1016, 1035, per Ho ﬀmann L.J.566 [2018] The Cambridge Law Journal
+of fact. (With “old master paintings ”the loser could be the buyer, if the
+painting is actually a copy, or equally the seller, if what turns out to be a
+priceless “undoubted Raphael ”had been sold as a “Gerard Dow ”or
+“Zoﬀany”.) Silence means the loss lies where it falls –in a mistake case,
+that the contract remains in force. There is no room for a gap of any
+kind. The only alternatives are (as stated) that nothing is to happen or,
+exceptionally, that the court implies a term (condition precedent) avoidingthe contract for mistake. Unless such a condition precedent is implicit, the
+“gap closing ”inference of non-intervention is inevitable, and the plea of
+mistake must fail.
+This approach would provide an even shorter answer to the cases dis-
+cussed. In neither Triple Seven norDana Gas is it plausible that avoiding
+the contract must have been intended by the parties, but was left unsaid. Ina commercial contract such drastic consequences of factual mistakes would
+surely be spelled out, and not left implicit. The express contract terms for-
+tify that conclusion. But even in the absence of those provisions, commonmistake would still have failed.
+IV. U
+NCOMMON SUCCESS :BRITISH REDCROSS V WERRY
+In suitably rare situations, a common mistake plea can still succeed –as in
+our third case.40This raised the status of an agreement compromising liti-
+gation under the Inheritance (Provision for Family and Dependants) Act
+1975. The claimant was the unmarried partner of an intestate individual,who was (since unmarried) not a bene ﬁciary under the intestacy rules,
+and the defendants were the bene ﬁciaries under the intestacy. The defend-
+ant bene ﬁciaries agreed in 2011 to transfer certain interests in land to the
+claimant partner, for whom proper provision had not been made.
+Subsequently, to general surprise, the will of the supposedly “intestate indi-
+vidual ”turned up during a house clearance. It left all the testator ’s property
+to the claimant absolutely. In a very brief judgment, Judge Elizabeth Cooke
+held it was “beyond dispute ”that the 2011 agreement was void for common
+mistake; compromising intestacy litigation when the “intestate ”individual
+had in fact left a will involved a mistake “as fundamental as that referred
+to by Lord Atkin in Bell v Lever Bros [1932] A.C. 161, where a party con-
+tracted to purchase land that he or she already owned ”.
+41
+This will become a textbook example of a “suﬃciently fundamental mis-
+take ”, which is how the learned judge reasoned. But it is also exempli ﬁes
+the situation when the parties must implicitly have intended that in the
+event of a will being found, the compromise agreement would be void.
+Had the “oﬃcious bystander ”spoken up to this e ﬀect in 2011, he would
+40British Red Cross v Werry [2017] EWHC 875 (Ch).
+41Ibid., at paras. [21] –[22].C.L.J. 567 Common Mistake in Contract
+have been speedily silenced. Here it really did go without saying that the
+compromise of claims against the deceased ’s intestate bene ﬁciaries
+depended on there being an intestacy (without which they would not in
+fact be “intestate bene ﬁciaries ”and the distribution of assets challenged
+by the claim would not in fact occur). The existence of intestacy was neces-
+sarily the basis for the compromise agreement. It falls into the rare category
+of matters so obvious that they would (understandably) not be spelled out.
+V. C ONCLUSION :FAREWELL TO THE “DOCTRINE OF COMMON MISTAKE ”
+Our modest proposal is that there is no “doctrine of common mistake ”.
+Slade was right.42Only when a contract makes the mistaken fact a condi-
+tion precedent for binding obligation is the court permitted to “avoid ”the
+supposed contract. Only rarely will such a condition precedent be implicit
+although unsaid. Rarer still in “bigﬁsh”commercial cases, where parties
+can be expected to spell out such important matters and not leave them
+unspoken ( “going without saying ”). This demanding test for implication
+can be met, as British Red Cross v Werry shows (signi ﬁcantly this case
+did not involve sophisticated commercial parties).43But if the contract con-
+tains no condition precedent, express or implied, the contract continues to
+bind according to its terms . It would violate those terms to avoid the con-
+tract: there is no room for a “doctrine of common mistake ”.44
+Even if the “doctrine of frustration ”is based on the need to make an
+exception in the interests of justice –a commercially questionable assertion
+despite its high authority45–that dispensing power must not be imported
+into cases of mistake. In The Great Peace , Lord Phillips M.R. approached
+frustration and common mistake as closely related doctrines; the facts ofAmalgamated Investments v John Walker , discussed above, show why it is
+desirable to align the tests for unexpected events whether preceding or suc-
+ceeding the contract. Thus, if the argument here is correct it suggests that
+there is no “doctrine ”of frustration either.
+46That conclusion would return
+frustration to its implied term roots.47But this is a subject for another day.
+As suggested, the implied term approach (really the “implicit meaning ”
+approach) is entailed by respect for the bargain struck by the contracting
+parties. It also avoids the need to distinguish degrees of fundamentalityof mistake, when these shade imperceptibly into each other. That orthodox
+42C.J. Slade, “The Myth of Mistake in the English Law of Contract ”(1954) 70 L.Q.R. 385.
+43Cf. Cartwright, “The Rise and Fall of Mistake ”(noting the commercial context for the con ﬁnement of
+common mistake, and wondering whether it could ever enjoy a renaissance in non-commercial cases).
+44For unconscionable mistakes cf. n.10 above.
+45E.g.Hirji Mulji v Cheong Yue Steamship Co. Ltd . [1926] A.C. 497, 510, per Lord Sumner; J. Lauritzen
+AS v Wijsmuller B.V. (The Super Servant Two) [1990] 1 Lloyd ’s Rep. 1, 8, per Bingham L.J.
+46J.C. Smith, “Contracts –Mistake, Frustration and Implied Terms ”(1994) 110 L.Q.R. 400.
+47Taylor v Caldwell (1863) 3 B. & S. 826. For a very similar approach to mistake, see Pope v Buenos Ayres
+New Gas Co. (1892) 8 T.L.R. 758, 759, per Lindley L.J.; Solle [1950] 1 K.B. 671.568 [2018] The Cambridge Law Journal
+test is bound to vex the courts and wrong-foot those trying to predict their
+decisions –that is, the very unpredictability of the test invites litigation.
+Given the congruity of the implicit meaning approach with the three recent
+decisions analysed here, we also suggest it reaches sensible results.
+It is preferable to another approach suggested by Andrew Tettenborn: a
+doctrine with initially permissive withdrawal for mistake (i.e. for all sign-
+iﬁcant mistakes), but denying relief once the contract is performed (in
+whole or in part).48Professor Tettenborn argues that this strikes the right
+balance, being fair to the mistaken losing party but not requiring the com-
+plicated “unscrambling ”of executed contracts. But is the balance correctly
+struck? In Dana Gas , none of the obligations under the (English law)
+Purchase Undertaking had yet been performed: performance of the ﬁrst
+stage of that transaction (i.e. payment) was resisted. If the Tettenbornapproach would allow withdrawal from that transaction because it remained
+“executory ”, it permits parties to escape the consequences of their mistakes
+too readily, with insu ﬃcient weight on the commercial importance of
+upholding even executory contracts. Conversely, would the Tettenborn
+doctrine deny avoidance of the compromise agreement in British Red
+Cross v Werry because steps had been taken to implement it? That
+would be inconsistent with the agreement ’s true (implicit) meaning.
+Professor Tettenborn ’s approach is a refreshing attempt to reconceptua-
+lise common mistake. In the end it is misconceived, in common withnearly all writing on the subject, because it assumes that there isa“doctrine
+of common mistake ”. There is not. The only question is the meaning of the
+contract. As Slade wrote many years ago, it is unfortunate that Lord Atkinattempted to ﬂesh out this simple point, since confusion has resulted.
+49Bell
+v Lever Bros ’s authority has since su ﬀered grievous harm: Catharine
+MacMillan excoriates the uneasy incorporation of half-digested ideas of(subjective) “will theory ”inBell ’sfamous (and di ﬃcult) speeches.
+50
+Alas, Professor MacMillan ’s book was published after Bell ’sdeﬁnitive sta-
+tus was rea ﬃrmed in The Great Peace . It is scarcely likely that the Supreme
+Court will reappraise this area of law in the near future. When the oppor-
+tunity ﬁnally comes, the unhappy “doctrine ”of common mistake should
+receive its quietus. Until then, courts should adopt this article ’s approach
+(which is substantially the reasoning of Leggatt J. in the Dana Gas
+case),51which leaves no room for a “doctrine ”of common mistake.
+48A. Tettenborn, “Agreements, Common Mistake and the Purpose of Contract ”(2011) 27 J.C.L. 91.
+49(1954) 70 L.Q.R. 385, 401. See also Cartwright, “The Rise and Fall of Mistake ”.
+50C. MacMillan, Mistakes in Contract Law (Hart 2010).
+51See further Pope (1892) 8 T.L.R. 758.C.L.J. 569 Common Mistake in Contract
+Copyright © Cambridge Law Journal and Contributors
+2018 
