@@ -13,33 +13,7 @@ import pytesseract
 # 清除过程中的各种过程文件
 import os
 
-pdf_path = 'Course_ JDOC1001 Law of contract I [Section FA, 2024] _ hkumoodle.pdf'
-
-for pagenum, page in enumerate(extract_pages(pdf_path)):
-
-    # Iterate the elements that composed a page
-    for element in page:
-
-        # Check if the element is a text element
-        if isinstance(element, LTTextContainer):
-            # Function to extract text from the text block
-            pass
-            # Function to extract text format
-            pass
-
-        # Check the elements for images
-        if isinstance(element, LTFigure):
-            # Function to convert PDF to Image
-            pass
-            # Function to extract text with OCR
-            pass
-
-        # Check the elements for tables
-        if isinstance(element, LTRect):
-            # Function to extract table
-            pass
-            # Function to convert table content into a string
-            pass
+pdf_path = 'Lesson 7.pdf'
 
 def text_extraction(element):
     # 从行元素中提取文本
@@ -124,6 +98,7 @@ def table_converter(table):
 pdfFileObj = open(pdf_path, 'rb')
 # 创建一个PDF阅读器对象
 pdfReaded = PyPDF2.PdfReader(pdfFileObj)
+pdf_for_plumber = pdfplumber.open(pdf_path)
 
 # 创建字典以从每个图像中提取文本
 text_per_page = {}
@@ -139,15 +114,14 @@ for pagenum, page in enumerate(extract_pages(pdf_path)):
     page_content = []
     # 初始化检查表的数量
     table_num = 0
-    first_element= True
-    table_extraction_flag= False
-    # 打开pdf文件
-    pdf = pdfplumber.open(pdf_path)
+    first_element = True
+    table_extraction_flag = False
+    lower_side = 0  # Initialize variables
+    upper_side = 0
     # 查找已检查的页面
-    page_tables = pdf.pages[pagenum]
+    page_tables = pdf_for_plumber.pages[pagenum]
     # 找出本页上的表格数目
     tables = page_tables.find_tables()
-
 
     # 找到所有的元素
     page_elements = [(element.y1, element) for element in page._objs]
@@ -157,7 +131,7 @@ for pagenum, page in enumerate(extract_pages(pdf_path)):
     # 查找组成页面的元素
     for i,component in enumerate(page_elements):
         # 提取PDF中元素顶部的位置
-        pos= component[0]
+        pos = component[0]
         # 提取页面布局的元素
         element = component[1]
         
@@ -213,12 +187,12 @@ for pagenum, page in enumerate(extract_pages(pdf_path)):
                 line_format.append('table')
 
             # 检查我们是否已经从页面中提取了表
-            if element.y0 >= lower_side and element.y1 <= upper_side:
+            if table_extraction_flag and element.y0 >= lower_side and element.y1 <= upper_side:
                 pass
             elif not isinstance(page_elements[i+1][1], LTRect):
                 table_extraction_flag = False
                 first_element = True
-                table_num+=1
+                table_num += 1
 
 
     # 创建字典的键
@@ -228,6 +202,7 @@ for pagenum, page in enumerate(extract_pages(pdf_path)):
 
 # 关闭pdf文件对象
 pdfFileObj.close()
+pdf_for_plumber.close()
 
 # 删除已创建的过程文件
 os.remove('cropped_image.pdf')

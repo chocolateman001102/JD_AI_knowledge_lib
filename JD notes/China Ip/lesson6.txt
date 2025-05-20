@@ -1,0 +1,596 @@
+<p>Filing date</p>
+<p>• Priority (international)
+  • If A files a patent application for the first time in a Paris Convention member state with a formal patent application and then files another patent application for the same subject matter in another Paris Convention member state, the filing date of A’s later application is the date of his first formal filing in a Paris Convention member state, provided that it is within the specified period.</p>
+<p>• Specified Period:
+  • Inventions and Utility Models- 12 months
+  • Design-6 months</p>
+<p>Filing date</p>
+<p>• Priority (domestic)
+  • A files a patent application of an invention or utility model for the first time in China. Another patent application is filed within 12 months for the same subject matter. The first filing date is deemed to be the filing date of the second application, and the first application is deemed to be automatically withdrawn.</p>
+<p>• Implications:
+  • Make invention and utility model patent applications interchangeable
+  • Consolidation of several applications
+  • Re-apply after withdrawal</p>
+<p>Prohibition of repeated grant of patent rights</p>
+<p><strong>Article 9</strong> One patent shall be granted to one creation. …</p>
+<p>Where two or more applicants file applications for a patent for an identical invention, the patent shall be granted to the applicant who is the first to file an application.</p>
+<p>Policy goals:</p>
+<ul>
+<li>Avoid extension of protection period</li>
+<li>Avoiding conflicts between rights holders</li>
+</ul>
+<p>Prohibition of repeated grant of patent rights</p>
+<p>• <strong>Article 9</strong> One patent shall be granted to one creation. However, if a same applicant applied for both a patent for utility model and a patent for invention on a same day, if the patent for the utility model it has previously applied for has not terminated yet and if the applicant declares to waive the patent for utility model, the patent for invention can be granted.</p>
+<p>The principle of unity in application</p>
+<ul>
+<li><p><strong>Article 31</strong> An application for a patent for invention or utility model shall be limited to one invention or utility model. Two or more inventions or utility models attributed to a single general inventive concept may be filed as one application.</p>
+</li>
+<li><p>An application for a design patent shall be limited to one design. As to two or more similar designs for the same product or for products which fall into the same class and are sold or used in sets, an application for one design may be filed.</p>
+</li>
+</ul>
+<p><strong>Policy goals:</strong></p>
+<ul>
+<li>Easy to classify and search patent documents</li>
+<li>Fair amount of application fee</li>
+</ul>
+<p>The principle of unity</p>
+<p>• <strong>Article 31</strong> An application for a patent for invention or utility model shall be limited to one invention or utility model. <strong>Two or more inventions or utility models attributed to a single general inventive concept may be filed as one application.</strong></p>
+<p>• ...</p>
+<p>The principle of unity</p>
+<p>• <strong>Article 31</strong></p>
+<p>  • An application for a design patent shall be limited to one design. <em>As to two or more similar designs for the same product or for products which fall into the same class and are sold or used in sets, an application for one design may be filed.</em></p>
+<p>The application documents</p>
+<p>Invention and utility model application documents</p>
+<p>• Request
+• Specification and abstract
+• Claims</p>
+<p>*Description of the source of the genetic resources （A form stating that the genetic resources were legally obtained after approval）</p>
+<p>The application documents</p>
+<p>• Claims （权利要求书）
+  • Based on the specification, the claims clearly and briefly delineate the scope of requested patent protection by stating the technical features</p>
+<p>The application documents</p>
+<p>• The function of specification
+  • A clear and complete description of the technical solution
+    • The defendant or challenger may request invalidation of the patent on the grounds that the description of the relevant technology in the specification is not clear and complete.
+  • At the time of application as the basis for the claims made
+    • The claims must be based on the specification when the technical features requested for protection are presented. The technical features not disclosed in the specification can not be included in the scope of protection
+  • At the time of the modification application as a limit to the scope of the modification
+  • In infringement litigation, interpreting claims and clarifying the scope of protection</p>
+<p>The application documents</p>
+<p>Creation relying on genetic resources</p>
+<p>• Description of the source of the genetic resources
+  • The applicant shall state in the patent application documents the direct source and original source of the genetic resources
+  • If the applicant is unable to state the original source, the applicant shall state the reasons</p>
+<p>The application documents</p>
+<p>• Documents for design patent application</p>
+<p>  • Request: Need to specify the category to which the product belongs (protection is provided based on the product category after authorization)</p>
+<p>  • Pictures or photographs: The relevant pictures or photographs submitted by the applicant should clearly show the design of the product for which protection is requested</p>
+<p>• Brief description</p>
+<p>The application documents</p>
+<ul>
+<li><p>Documents for design patent application</p>
+<ul>
+<li>Request: Need to specify the category to which the product belongs (protection is provided based on the product category after authorization)<ul>
+<li>A design patent granted on product a cannot be extended to product b, which is neither identical nor similar to product a. The scope of protection is limited to the same or similar products.</li>
+</ul>
+</li>
+</ul>
+<p>P applied for a design patent for stickers for dinnerware (餐具用贴纸).
+D made dinnerware and printed the same design on the dinnerware (餐具) as the P’s stickers
+P sued D for infringing its design patent</p>
+<p><strong>Held:</strong> P and D’s products are not similar to each other, so D did not infringe.
+Arc International (appellant) v. Yiwu City Lanzhiyun Glassware Factory (appellee)
+(dispute over design patent infringement)</p>
+</li>
+</ul>
+<p>The application documents</p>
+<ul>
+<li>Documents for design patent application<ul>
+<li>Pictures or photographs: The relevant pictures or photographs submitted by the applicant should clearly show the design of the product for which protection is requested</li>
+</ul>
+</li>
+</ul>
+Patent examination
+
+For different creations, China adopts different examination mechanisms.
+Invention: Disclosure first, then substantive examination
+Utility model and design: preliminary examination
+
+<p>Invention patent application</p>
+<p>• Preliminary examination (初步审查)
+  • See if the application is filled out in accordance with the rules, whether the content of the request for protection is patentable subject matter
+    • Rejection
+    • If no reason for rejection
+      • The full set of application documents will be made available to the public after 18 months from the date of application, which is called early disclosure, and the applicant can also request earlier disclosure (Art. 34)
+      • Within three years from the filing date, the applicant may request the Patent Office to conduct a substantive examination (实质审查) of his or her invention patent application at any time. (Art. 35)
+        • Rejection (Art. 38)
+        • Granting patent (Art. 39)</p>
+
+<p>Provisional Protection Period （临时保护时期）</p>
+<ul>
+<li><strong>Article 13</strong> After the publication of an application for a patent for invention, the applicant may require the entity or individual exploiting the invention to pay an appropriate fee.</li>
+</ul>
+<p>If the applicant is not satisfied with the rejection decision, he can file a reexamination application with the patent reexamination office, that is, he thinks the patent office has made a mistake and asks for a reexamination. (Art. 41)</p>
+<p>If the patent reexamination authority makes a decision of non-grant, the applicant can file an administrative lawsuit with the State Intellectual Property Office as the defendant to the Beijing Intellectual Property Court. (Art. 41)</p>
+<p>Then if the Beijing IPR Court still finds that the decision made by the patent reexamination body is legal, so it should not be granted. At this time, the applicant can appeal to the Intellectual Property Court of the Supreme People’s Court. The decision by the court is final.</p>
+<p>Disputes</p>
+<p>• Granting patent
+  • After a patent has been granted, if any person believes that the grant is wrong, he or she may request the patent reexamination body established by the State Intellectual Property Office to invalidate the patent right. (Art. 45)
+  • Then the party concerned can file an administrative lawsuit with the Beijing Intellectual Property Court against the decision of the reexamination body to invalidate or maintain the validity of the patent. (Art. 46)
+  • If a party is not satisfied with the decision, it can appeal to the Intellectual Property Tribunal of the Supreme People&#39;s Court.</p>
+<p>Utility model and design patent application</p>
+<p>• Preliminary examination (Art. 40)
+  • See if the application is filled out in accordance with the rules, whether
+    the content of the request for protection is patentable subject matter
+    • Rejection
+    • If no reason for rejection
+      • Granting patent</p>
+<p>• Dispute
+  • If a utility model and design patent owner sues someone for infringement in a
+    lawsuit, the defendant may also challenge the validity of the rights. Then in such
+    a case, the right holder may request the Patent Office to issue an evaluation
+    report of the patent rights. This is equivalent to requesting the patent office to
+    conduct a supplementary substantive examination, the key is to conduct a
+    search to see if the same technical solution and design existed before the
+    application. If the evaluation report states that the same technical solution
+    existed before, the plaintiff will not be able to win the infringement lawsuit.</p>
+<p>The elements of patent right</p>
+<p>• <strong>Article 11</strong> After the granting of patent for an invention or utility model, unless it is otherwise prescribed by this Law, no entity or individual is entitled to, without permission of the patentee, exploit the patent, that is, to make, use, promise the sale of, sell or import the patented product, or use the patented process and use, promise the sale of, sell or import the product directly obtained from the patented process, for production or business purposes （为生产经营目的）.</p>
+<p>• After the granting of a patent for a design, no entity or individual shall, without permission of the patentee, exploit the patent, that is to say, they shall not make, promise to sell, sell, or import the product incorporating its or his patented design, for production and business purposes.</p>
+<p>It usually refers to operations within a certain industry, whether for profit or not.</p>
+<p>“for production or business purposes”</p>
+<ul>
+<li>P invented and patented a herbal feed additive for lactation-enhancing cattle.</li>
+<li>D, an agricultural research institute, implemented P’s technical solution without permission and promoted the technical solution to numerous farmers.</li>
+<li>P sued D for patent infringing the patent right. The defendant defended that its use did not for the purpose of production and operation.</li>
+<li>Held: “The patent law will &quot;for the purpose of production and operation&quot; as one of the elements of patent infringement, for the purpose of reasonably balancing the interests of the patentee and the public. In the determination of patent infringement, the understanding of &quot;for the purpose of production and operation&quot; should focus on the specific infringing act being sued, and take into account whether the act belongs to the participation in market activities and whether it affects the market interests of the patentee, etc. The &quot;for the purpose of production and operation&quot; should not be simply equated with &quot;for the actual operation&quot;. It should not simply equate &quot;for the purpose of production and operation&quot; with &quot;actual profit&quot;; nor should it merely determine whether it has the purpose of production and operation according to the nature of the implementation subject. Even if a government agency or institution has the attributes of public service or public welfare and does not have the purpose of production and operation, but it has implemented market activities and harmed the market interests of the patentee, it can still be deemed to have the element of &quot;for the purpose of production and operation&quot;.&quot;</li>
+</ul>
+<p>The elements of patent right</p>
+<p>• <strong>Article 11</strong> After the granting of patent for an invention or utility model, unless it is otherwise prescribed by this Law, no entity or individual is entitled to, <strong>without permission of the patentee</strong>, exploit the patent, that is, to make, use, promise the sale of, sell or import the patented product, or use the patented process and use, promise the sale of, sell or import the product directly obtained from the patented process, for production or business purposes （为生产经营目的）.</p>
+<p>• After the granting of a patent for a design, no entity or individual shall, <strong>without permission of the patentee</strong>, exploit the patent, that is to say, they shall not make, promise to sell, sell, or import the product incorporating its or his patented design, for production and business purposes.</p>
+<p>It usually refers to operations within a certain industry, whether for profit or not.</p>
+<p>Patents that relate to product</p>
+<p>• Exclude others from
+  • Making
+  • Using
+  • Selling
+  • Offering for sale (ad. or display, etc)
+  • Importing</p>
+<p>the products that apply the patented creation.</p>
+<p>The elements of patent right</p>
+<ul>
+<li><p><strong>Article 11</strong> After the granting of patent for an invention or utility model, unless it is otherwise prescribed by this Law, no entity or individual is entitled to, without permission of the patentee, exploit the patent, that is, to make, use, promise the sale of, sell or import the patented product, or use the patented process and use, promise the sale of, sell or import the product directly obtained from the patented process, for production or business purposes （为生产经营目的）.</p>
+</li>
+<li><p>After the granting of a patent for a design, no entity or individual shall, without permission of the patentee, exploit the patent, that is to say, they shall not make, promise to sell, sell, or import the product incorporating its or his patented design, for production and business purposes.</p>
+</li>
+</ul>
+<p>The elements of patent right</p>
+<p>• <strong>Article 11</strong>: …</p>
+<p>• After the granting of a patent for a design, no entity or individual shall, without permission of the patentee, exploit the patent, that is to say, they shall not make, promise to sell, sell, or import the product incorporating its or his patented design, for production and business purposes.</p>
+<p>Elements of design patent rights</p>
+<p>• Exclude others from
+  • Making
+  • Selling
+  • Offering for sale
+  • Importing the product incorporating the design</p>
+
+
+Patent Remedies & Implementation：
+<p>Loss of Patent Rights</p>
+<p>Circumstances:</p>
+<p>• Abandonment: Art. 44 (2)
+• Not paying annual fees
+• Invalidation</p>
+<p>Loss of Patent Rights</p>
+<p>• Annual fees:
+  • Statutory basis: Arts. 43; 44
+  • Policy reason: There are costs associated with maintaining a patent system. Annual fees partially cover this cost on the one hand, and on the other hand induce rights holders who do not see the economic value of their patents to abandon them.
+  • Time of Payment: One month before the expiration of the previous year.
+  • Grace period: 6 months</p>
+<table>
+<thead>
+<tr>
+<th>Invention</th>
+<th>Utility model and design</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1-3 yrs.</td>
+<td>900 ¥</td>
+</tr>
+<tr>
+<td>4-6 yrs.</td>
+<td>1200 ¥</td>
+</tr>
+<tr>
+<td>7-9 yrs.</td>
+<td>2000 ¥</td>
+</tr>
+<tr>
+<td>10-12 yrs.</td>
+<td>4000 ¥</td>
+</tr>
+<tr>
+<td>13-15 yrs.</td>
+<td>6000 ¥</td>
+</tr>
+<tr>
+<td>16-20 yrs.</td>
+<td>8000 ¥</td>
+</tr>
+<tr>
+<td>1-3 yrs.</td>
+<td>600 ¥</td>
+</tr>
+<tr>
+<td>4-5 yrs.</td>
+<td>900 ¥</td>
+</tr>
+<tr>
+<td>6-8 yrs.</td>
+<td>1200 ¥</td>
+</tr>
+<tr>
+<td>9-10 yrs.</td>
+<td>2000 ¥</td>
+</tr>
+<tr>
+<td>11-15 yrs.</td>
+<td>3000 ¥</td>
+</tr>
+</tbody></table>
+<p>Loss of Patent Rights</p>
+<p>• Invalidation
+  • Not patentable subject matter
+  • Not novel, inventive, or useful
+  • The application does not meet requirements, such as enablement</p>
+<p>Loss of Patent Rights</p>
+<p>• The invalidation has retroactive effect （Art. 47）
+  • Default: Invalidated patents are considered to have no legal effect from the beginning
+  • Exceptions:
+    • Judgments and mediations on patent infringement that made by the People’s Court before the invalidation of the patent right, and that have been enforced
+    • Patent infringement dispute decision that has been fulfilled or enforced
+    • Patent licensing contracts and patent assignment contracts that have been executed
+      • Exceptions to exceptions:
+        • The patentee who has caused damage to others in bad faith should make compensations.
+        • Not to return the patent infringement compensation, patent royalties, patent transfer fees clearly violate the principle of fairness, shall return all or part of the above-mentioned payments</p>
+<p>• <strong>Article 42</strong> The term of a patent for an invention shall be 20 years, the term of a patent for a utility model shall be 10 years, and the term of a patent for a design shall be 15 years, all commencing from the <strong>date of filing</strong> of application.</p>
+<p>• ... </p>
+<p>• Invention patent 20 yrs.
+• Utility model 10 yrs.
+• Design 15 yrs.</p>
+<p>Extension of the duration of protection</p>
+<p>• <strong>Article 42</strong></p>
+<p>  Where a patent for an invention is granted four years from the date of filing of application and three years from the date of filing of request for substantial examination, the patent administrative department of the State Council shall, at the request of the patentee, provide patent term extension for unreasonable delay in the patenting process for the invention, except for unreasonable delay caused by the applicant.</p>
+<p>• Invention patent 20 yrs.
+• Utility model 10 yrs.
+• Design 15 yrs.</p>
+<p>Extension of the duration of protection</p>
+<p>• <strong>Article 42</strong> …</p>
+<p>  For the purpose of making up the time required for the assessment and approval of the marketing of a new drug, the patent administrative department of the State Council may, at the request of the patentee, provide patent term extension for an invention patent relating to the new drug approved for marketing in China. The extension may not exceed 5 years, and the total effective term of the patent after the new drug is approved for marketing shall not exceed 14 years.</p>
+<p>• Invention patent 20 yrs. + max. 5 yrs.</p>
+<p>Infringement to invention and utility model patents</p>
+<p>Step 1</p>
+<p>• Define the scope of protection of invention and utility model patents
+  • Delineate the scope of protection by the technical features recorded in the claims
+  • The specification and its accompanying drawings are used to construe the claims
+    • From the perspective of a person skilled in the art
+    • Deference to the definition of terms in the specification</p>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+an elongated plastic frame conforming to the
+shape and area of a typical banana, the frame
+having curvilinear opposite longitudinal sides, and
+a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, the spaces between
+the ribs defining thickness of banana slices cut by
+the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein each rib is approximately 1 mm thick.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein the ribs are disposed at an
+approximate distance of 4 mm from one
+another.</p>
+</li>
+</ol>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+an elongated plastic frame conforming to the
+shape and area of a typical banana, the frame
+having curvilinear opposite longitudinal sides, and
+a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, the spaces between
+the ribs defining thickness of banana slices cut by
+the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein each rib is approximately 1 mm thick.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein the ribs are disposed at an
+approximate distance of 4 mm from one
+another.</p>
+</li>
+</ol>
+<p>A plurality of spaced, substantially parallel disposed
+blades or ribs interconnect two elongated sides of
+the frame. The positioning of the blades or ribs is
+such that when the banana slicer is laid to rest on a
+substantially horizontal flat support surface (not
+shown), the blades or ribs are disposed substantially
+vertically. In accordance with the invention, the
+blades or ribs must be sufficiently thin so as to be
+able to serve as cutting tools capable of cutting
+through a banana, without having a specially
+sharpened wedge shaped cutting edge. On the
+other hand, because the blades are preferably made
+from plastic, they cannot be so thin or narrow that
+their structural integrity would be compromised, or
+so thin that they could not be manufactured by
+suitable manufacturing processes, such as plastic
+molding. For these reasons, the blades or ribs of the
+preferred embodiment are approximately 1 mm
+wide, although it should be understood that their
+width can vary for as long as the foregoing
+requirements are met. For example, when the blades
+are made from high density polyethylene, their
+thickness can be as little 0.9 to 0.8 mm, without
+compromising their structural integrity.</p>
+<p>Infringement to invention and utility model patents</p>
+<p>Step 2</p>
+<p>• All-elements rule
+  • Each technical feature recorded in the patent claims has a corresponding technical feature in the allegedly infringing product or process.
+    • Literal infringement
+    • The technical features corresponding thereto literally fall within the scope of the corresponding technical features recorded in the claims.
+  • Equivalent infringement (doctrine of equivalents)
+    • The technical features corresponding thereto perform substantially the same function and produce substantially the same effect in practically the same manner; they can be achieved without creation.</p>
+<p>Infringement to invention and utility model patents</p>
+<p>Step 2</p>
+<p>• <strong>All-elements rule</strong>
+  • The infringing product or process should fall completely within the scope of all technical features recorded in the claims
+    • <strong>Literal infringement</strong></p>
+<table>
+<thead>
+<tr>
+<th>P’s claim</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>D’s product</td>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td>F</td>
+<td>G</td>
+</tr>
+</tbody></table>
+<p>• <strong>Equivalent infringement (doctrine of equivalents)</strong></p>
+<table>
+<thead>
+<tr>
+<th>P’s claim</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>D’s product</td>
+<td>A*</td>
+<td>B</td>
+<td>C*</td>
+<td>D</td>
+<td>E</td>
+<td>F*</td>
+<td>G</td>
+</tr>
+</tbody></table>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+(A) an elongated plastic frame conforming to the
+shape and area of a typical banana, (B) the frame
+having curvilinear opposite longitudinal sides, (C)
+and a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, (D) each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, (E) the spaces
+between the ribs defining thickness of banana
+slices cut by the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein (F) each rib is approximately 1 mm
+thick.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein (G) the ribs are disposed at an
+approximate distance of 4 mm from one
+another.</p>
+</li>
+</ol>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+(A) an elongated plastic frame conforming to the shape and area of a typical banana, (B) the frame having curvilinear opposite longitudinal sides, (C) and a plurality of substantially evenly spaced, substantially parallel disposed ribs integral with the frame and interconnecting the curvilinear opposite longitudinal sides of the frame, (D) each of the ribs being sufficiently thin to form means for cutting transversely through a banana, (E) the spaces between the ribs defining thickness of banana slices cut by the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1 wherein (F) each rib is approximately 1 mm thick.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1 wherein (G) the ribs are disposed at an approximate distance of 4 mm from one another.</p>
+</li>
+</ol>
+<p>The technical features corresponding thereto literally fall within the scope of the corresponding technical features recorded in the claims.</p>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+(A) an elongated plastic frame conforming to the shape and area of a typical banana, (B) the frame having curvilinear opposite longitudinal sides, (C) and a plurality of substantially evenly spaced, substantially parallel disposed ribs integral with the frame and interconnecting the curvilinear opposite longitudinal sides of the frame, (D) each of the ribs being sufficiently thin to form means for cutting transversely through a banana, (E) the spaces between the ribs defining thickness of banana slices cut by the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1 wherein (F) each rib is approximately 1 mm thick.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1 wherein (G) the ribs are disposed at an approximate distance of 4 mm from one another.</p>
+</li>
+</ol>
+<p>Made of resin (树脂)</p>
+<p>The technical features corresponding thereto perform substantially the same function and produce substantially the same effect in practically the same manner; they can be achieved without creation.</p>
+<p>Infringement to invention and utility model patents</p>
+<p>Limitations on the doctrine of equivalents</p>
+<p>• Defense based on doctrine of dedication
+  • The doctrine of equivalents does not apply to technical features disclosed in the specification but not written in the claims.</p>
+<p>• Defense based on doctrine of estoppel
+  • The doctrine of equivalents does not apply to technical features that the patent owner waives in the claims during the prosecution process.</p>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+an elongated plastic frame conforming to the
+shape and area of a typical banana, the frame
+having curvilinear opposite longitudinal sides, and
+a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, the spaces betwee
+the ribs defining thickness of banana slices cut by
+the utensil.</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein each rib is approximately 1 mm thick</p>
+</li>
+<li><p>The banana slicing utensil of claim 1
+wherein the ribs are disposed at an
+approximate distance of 4 mm from one
+another.</p>
+</li>
+</ol>
+<p>Specification:
+...
+The frame of this utensil is best
+composed of plastic; resin is also
+fine.
+...
+D’s product</p>
+<p>Made of resin （树脂）</p>
+<p>Claim scope does not extend to resin based on the doctrine of equivalents</p>
+<ol>
+<li><p>A utensil for slicing bananas comprising:
+an elongated plastic or resin frame conforming to
+the shape and area of a typical banana, the frame
+having curvilinear opposite longitudinal sides, and
+a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, the spaces between
+the ribs defining thickness of banana slices cut by
+the utensil. (before amendment)</p>
+</li>
+<li><p>A utensil for slicing bananas comprising:
+an elongated plastic frame conforming to the
+shape and area of a typical banana, the frame
+having curvilinear opposite longitudinal sides, and
+a plurality of substantially evenly spaced,
+substantially parallel disposed ribs integral with the
+frame and interconnecting the curvilinear opposite
+longitudinal sides of the frame, each of the ribs
+being sufficiently thin to form means for cutting
+transversely through a banana, the spaces between
+the ribs defining thickness of banana slices cut by
+the utensil. (after amendment)</p>
+</li>
+</ol>
+<p>Claim scope does not extend to resin based on the doctrine of equivalents</p>
+<p>Doctrine of estoppel</p>
+<p>Infringement to design patents</p>
+<p>• Unauthorized adoption of a design identical or similar to a patented design on the same or a similar type of product.</p>
+<p>• Similarity of product types:
+  • Determination based on the international design classification table, the function of the product, product sales, and actual use of the product</p>
+<p>• Similarity of design:
+  • Determination based on the overall visual effect to consumers, taking their level of knowledge and cognitive ability into account</p>
+<p>Defense</p>
+<p>• Exhaustion</p>
+<p><strong>Article 75</strong> None of the following circumstances shall be deemed an infringement upon a patent right:</p>
+<p>(1) using, promising to sell, selling or importing any patented product or product directly obtained under the patented process after the said product is sold by the patentee or by its (his) licensed entity or individual;</p>
+<p>Defense</p>
+<p>• Prior use or preparation</p>
+<p><strong>Article 75</strong> None of the following circumstances shall be deemed an infringement upon a patent right: ⋯</p>
+<p>(2) having made identical product or having used the identical process or having made necessary preparations for making such a product or using such a process prior to the date of application, and continuing making such product or using such a process only within the original scope; D is not allowed to expand its production capacity</p>
+<p>Policy reason: Protection of <em>prior</em> investments of D</p>
+<p>Defense</p>
+<p>• Temporary passing</p>
+<p>Article 75 None of the following circumstances shall be deemed an infringement upon a patent right: …</p>
+<p>(3) for any foreign means of transport which temporarily passes through the territory, territorial waters or territorial airspace of China, its using the relevant patents in accordance with any agreement concluded between China and that country to which the foreign means of transport belongs, or in accordance with any international treaty to which both countries have acceded, or on the basis of the principle of reciprocity, for its own needs, in its devices and installations;</p>
+<p>Defense</p>
+<p>• Scientific research and experiments</p>
+<p><strong>Article 75</strong> None of the following circumstances shall be deemed an infringement upon a patent right: …</p>
+<p>(4) using relevant patents solely for the purposes of scientific research and experiment; and</p>
+<ul>
+<li>Manufacture of patented microscopes to test the performance of microscopes</li>
+<li><strong>X</strong> Manufacture of patented microscopes to observe cells</li>
+</ul>
+<p>Defense</p>
+<ul>
+<li>Use or provide patented drugs or medical devices for the purpose of providing administrative approval information</li>
+</ul>
+<p><strong>Article 75</strong> None of the following circumstances shall be deemed an infringement upon a patent right: …</p>
+<p>(5) producing, using or importing patented medicine or patented medicinal equipment for the purpose of providing the information as required for administrative examination and approval, and producing and importing the patented medicine or patented medicinal equipment exclusively for the said purpose.</p>
+<p>Defense</p>
+<p>• The technical solution or design used by D belongs to prior art</p>
+<p><strong>Article 67</strong> In a dispute over patent infringement, if the accused infringer has evidence to prove that the technology or design it or he exploits is an existing technology or design, no patent infringement is constituted.</p>
+<p>• P sues D for patent infringement</p>
+<p>• D initiates proceedings to declare P patent invalid; If successful, no infringement (costly, time-consuming, affecting follow-up cases); or</p>
+<p>• D defenses on the ground that what it uses belongs to prior art; ; If successful, no infringement (cheap, time-saving, binding only for one case )</p>
+<p>Remedies</p>
+<p>• Civil Remedies
+  • Damages
+  • Injunctions</p>
+<p>• Administrative remedies
+  • Injunction</p>
+<p>Remedies</p>
+<p>• Civil Remedies
+  • Damages
+    1. <strong>Article 71</strong> The damages for a patent infringement shall be determined according to the actual loss suffered by the right holder due to the infringement or the benefits obtained by the infringer from the infringement; or if it is difficult to determine the loss suffered by the right holder or the benefits obtained by the infringer, the damages shall be reasonably determined by reference to the multiple of the royalty for this patent. In the case of an intentional patent infringement with serious circumstances, the damages may be determined as not less than one nor more than five times the amount determined in the aforesaid method.
+    2. Where it is difficult to determine the loss suffered by the right holder, the benefits obtained by the infringer, and the patent royalty, the people’s court may, by taking into account factors such as the type of the patent and the nature and circumstances of the infringement, determine the damages as not less than 30,000 yuan nor more than five million yuan.
+  • The damages shall also include the reasonable disbursements of the right holder for preventing the infringement.</p>
+<p>P’s actual loss; or D’s profits; or reasonable multiple of royalty</p>
+<p>Statutory damages 30,000-5,000,000 ¥</p>
+<p>Reasonable disbursement</p>
+<p>Enhanced damages: X max. 5</p>
+<p>• Civil Remedies
+  • Damages
+  • Article 71 ···Where the right holder has made best efforts to adduce evidence but the account books and materials relating to the infringement are mainly in the possession of the infringer, in order to determine the damages, the people’s court may order the infringer to provide such account books and materials; and if the infringer fails to provide them or provides any false ones, the people’s court may award damages by reference to the claims of and the evidence provided by the right holder.</p>
+<p>Remedies</p>
+<p>• Civil Remedies
+  • Injunctions
+    Permanent injunction
+  • Civil Code Art. 179
+    Preliminary injunction</p>
+<p>• Article 72 Where a patentee or interested party has evidence to prove that another person is committing or will commit an infringement upon the patent or an act of interfering with the patentee&#39;s or interested party&#39;s realization of rights, and irreparable harm will be caused to the lawful rights and interests of the patentee or interested party if the infringement is not stopped in a timely manner, the patentee or interested party may, before instituting an action, apply to the people&#39;s court for attachment of property, ordering certain conduct, or prohibiting certain conduct, in accordance with the law.</p>
+<p>Patent Litigation in China</p>
+<p>Bian has the following findings based on 2014 Chinese court patent infringement decision data from China Judgements Online (1663 cases).</p>
+<p>• Plaintiff&#39;s win rate: first trial, 81.14%; second trial, 78.45%
+• Probability that a plaintiff will obtain injunctive relief in a winning case: overall, 90.25%; first trial, 89.49%; second trial, 91.61%</p>
+<p>Remedies</p>
+<p>• Administrative remedies
+  • Injunction</p>
+<p><strong>Article 65</strong> In the event that a dispute arises out of any exploitation of a patent without permission of the patentee, that is, the infringement upon a patent right, the parties shall settle the dispute through negotiations. If they are not willing to negotiate or fail to reach an agreement through negotiations, the patentee or any interested party may request the patent administrative department, for settlement. If the patent administrative department ascertains at the time of settlement that infringement exists, it may order the infringer to immediately stop the infringement act. …</p>
